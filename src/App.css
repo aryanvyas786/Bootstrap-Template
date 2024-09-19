@@ -1,0 +1,136 @@
+.nav {
+  background-color: #445cd5;
+  padding: -10px;
+}
+.logo {
+  max-width: 100%;
+  cursor: pointer;
+}
+.image {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+button {
+  border-radius: 5%;
+}
+
+.nav-link:hover {
+  color: white;
+  text-decoration: underline;
+}
+.banner {
+  background-image: url("/banner.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px;
+}
+.banner .container h1 {
+  color: white;
+}
+.banner .container p {
+  color: white;
+}
+.third {
+  background-color: #f9f9ff;
+}
+.thirdheadingp {
+  color: #707070;
+}
+.third {
+  margin-top: 20px;
+}
+.iphone {
+  max-width: 100%;
+  cursor: pointer;
+}
+.get-more {
+  max-width: 100%;
+}
+.btn1 {
+  border-radius: 12px;
+  background-color: white;
+  border-color: #0d13d7;
+  color: #707070;
+}
+.thirdp p {
+  color: #707070;
+}
+.photop {
+  color: #707070;
+}
+button.arrowbutton {
+  background-color: white;
+  border-color: transparent;
+  color: black;
+  cursor: pointer;
+}
+img.downarrow {
+  max-width: 100%;
+  cursor: pointer;
+}
+img.rightarrow {
+  max-width: 100%;
+  cursor: pointer;
+}
+p.explore {
+  cursor: pointer;
+}
+.projects {
+  color: black;
+  margin-top: 20px;
+}
+.small {
+  max-width: 100%;
+  margin-top: 100px;
+}
+.portfolio {
+  margin-top: 100px;
+}
+.portfoliop {
+  margin-top: 25px;
+  color: #707070;
+}
+.card {
+  max-width: 100%;
+  margin-top: 55px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+section.footer {
+  background-color: #ebebf8;
+}
+.footerheading {
+  margin-top: 55px;
+}
+.footerlogo {
+  max-width: 100%;
+  margin-top: 55px;
+}
+.footerheading {
+  color: #707070;
+}
+li {
+  list-style: none;
+}
+.sociallogo {
+  max-width: 100%;
+  border-radius: 50%;
+  border: 1px solid #9c9ca8;
+}
+.copyright {
+  margin-top: 50px;
+  color: #707070;
+}
+.terms {
+  margin-top: 50px;
+  color: #707070;
+}
